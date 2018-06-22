@@ -1,5 +1,5 @@
 # barbershop 2.0!
-A hack attempting to do what [barbershop](github.com/ojhall94/barbershop) but in Bokehplot!
+A hack attempting to do what [barbershop](https://github.com/ojhall94/barbershop) but in Bokehplot!
 
 Contributors: O. J. Hall, A. Everall
 
